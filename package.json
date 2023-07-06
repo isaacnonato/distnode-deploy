@@ -4,7 +4,7 @@
   "description": "Learning CI/CD",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Fake tests\" && exit 0"
+    "test": "echo \"Fake tests\" && exit 1"
   },
   "keywords": [],
   "author": "",
